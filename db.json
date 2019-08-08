@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "Test Post1"
+      "title": "Test Data1"
     },
     {
       "id": 2,
-      "title": "Test Post2"
+      "title": "Test Data2"
     },
     {
       "id": 3,
-      "title": "Test Post3"
+      "title": "Test Data3"
     }
   ],
   "profile": {
